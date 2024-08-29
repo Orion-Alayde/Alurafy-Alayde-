@@ -1,0 +1,67 @@
+body {
+
+    color: white;
+    background: black;
+    margin: 0px;
+    font-family: "Arimo", sans-serif;
+    margin-bottom: 70px;
+}
+
+header {
+    border-bottom: solid 2px rgb(29, 185, 84);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(29, 185, 84);
+}
+
+.chamada {
+
+    background: rgb( 82, 0, 122);
+    padding-bottom: 25px;
+    padding-top: 15px;
+    display: flex;
+    justify-content: center;
+    padding-right: 100px;
+}
+
+.chamada-texto {
+
+    margin-right: 5%;
+    padding-left: 10%
+
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px
+}
+
+.categoria {
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+.categoria-videos img {
+    opacity: 0.5;
+    height: 200px;
+
+}
+
+.categoria-videos img:hover {
+    opacity: 1.0;
+    border: 2px solid green
+}
+
+.categoria h2 {
+    color: rgb(29, 185, 84)
+}
