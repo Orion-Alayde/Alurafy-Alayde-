@@ -16,7 +16,7 @@ header {
 
 .chamada {
 
-    background: rgb( 82, 0, 122);
+    background: rgb(82, 0, 122);
     padding-bottom: 25px;
     padding-top: 15px;
     display: flex;
@@ -28,7 +28,6 @@ header {
 
     margin-right: 5%;
     padding-left: 10%
-
 }
 
 h1 {
